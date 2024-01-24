@@ -1,7 +1,6 @@
 - Hello, I'm Yohan Kim
 - I'm currently enrolled in the Computer Science program at the University of Toronto St. George Campus.
 - Looking to participate in my first few hackathons in my first year
-- @incompiuto on discord and @_yohan.kim on instagram.
 
 <!---
 incompiuto/incompiuto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
